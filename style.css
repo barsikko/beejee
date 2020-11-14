@@ -1,0 +1,39 @@
+#user {
+	width: 40%;
+}
+
+#email {
+	width: 40%;
+}
+
+#password {
+	width: 40%
+}
+
+#comment{
+	width: 70%;
+}
+
+.navbar-nav {
+	margin-right: 0;
+	margin-left: auto;
+}
+
+.form-group{
+	margin-bottom: 100%;
+	width: 50%;
+	float: left;
+}
+
+.input{
+	width: 500px;
+}
+
+.card {
+	width: 40%;
+	margin: 0 auto;
+}
+
+.pagination {
+	margin: 0 auto 10px;
+}
