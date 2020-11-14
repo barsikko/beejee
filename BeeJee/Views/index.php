@@ -69,9 +69,10 @@
 					<span class='badge badge-success ml-2'>Проверено</span>
 				<?php endif; ?>	
 						<?php if ($arg['edited'] == 1 ) : ?>
-								<span class='badge badge-success ml-2'>Отредактировано</span><br />
+								<span class='badge badge-success ml-2'>Отредактировано</span>
 						<?php endif; ?>	
-		    <?=$arg['login']?> 
+			<br>
+		        <?=$arg['login']?> 
 			<br> 
 			<?=$arg['email']?> 
 			<br> 
